@@ -1,0 +1,27 @@
+_repo: The-Jester-of-St.-Timothy-s_17535
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17535-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pier, Arthur Stanwood
+    birthdate: 1874
+    deathdate: 1966
+    gutenberg_agent_id: '7439'
+    url: http://www.gutenberg.org/2009/agents/7439
+description: ''
+gutenberg_issued: '2006-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sports stories'
+- !lcsh 'Private schools -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Jester of St. Timothy's
+url: http://www.gutenberg.org/ebooks/17535
